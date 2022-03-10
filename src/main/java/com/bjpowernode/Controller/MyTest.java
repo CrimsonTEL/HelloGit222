@@ -5,5 +5,6 @@ public class MyTest {
         System.out.println("欢迎使用IDEA集成Git");
         System.out.println("欢迎使用IDEA集成Git222");
         System.out.println("欢迎使用IDEA集成Git333");
+        System.out.println("欢迎使用IDEA集成Git444");
     }
 }
