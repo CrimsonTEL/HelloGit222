@@ -8,5 +8,6 @@ public class MyTest {
         System.out.println("欢迎使用IDEA集成Git444");
         System.out.println("main test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
